@@ -8,6 +8,7 @@ import static com.ubs.opsit.interviews.support.BehaviouralTestEmbedder.aBehaviou
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
+import com.ubs.opsit.interviews.impl.BerlinClock;
 
 /**
  * Acceptance test class that uses the JBehave (Gerkin) syntax for writing stories.  You should not need to
